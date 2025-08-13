@@ -1,4 +1,4 @@
-# Wild Kernels for Android
+# Nerest Kernels for Android
 
 ## Your warranty is no longer valid!
 
@@ -12,30 +12,21 @@ By flashing this kernel, **YOU** are choosing to make these modifications. If so
 
 ### Proceed at your own risk!
 
-<table>
-  <tr>
-    <th> :warning: </th>
-    <th> Verify <a href="https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/blob/main/compatibility.md">Compatibility</a> of kernels before flashing. </th>
-  </tr>
-</table>
-
 ---
 
 # Kernels:
  
-[GKI](https://github.com/WildKernels/GKI_KernelSU_SUSFS)  
+[GKI](https://github.com/NerestKernels/GKI_KernelSU_SUSFS)  
 [Sultan](https://github.com/WildKernels/Sultan_KernelSU_SUSFS)  
-[OnePlus](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)  
-[Legacy Pixels](https://github.com/WildKernels/Pixel_KernelSU_SUSFS)  
+[OnePlus](https://github.com/NerestKernels/OnePlus_KernelSU_SUSFS)  
 
 ---
 
 # Other Links:
 
-[Kernel Patches](https://github.com/WildKernels/kernel_patches)  
+[Kernel Patches](https://github.com/TheFloresto/kernel_patches)  
 [Old Build Scripts](https://github.com/TheWildJames/kernel_build_scripts)  
-[Kernel Flasher - fatalcoder524 fork](https://github.com/fatalcoder524/KernelFlasher)  
-[Horizon Kernel Flasher](https://github.com/libxzr/HorizonKernelFlasher)  
+[Kernel Flasher](https://github.com/fatalcoder524/KernelFlasher)  
 
 ---
 
@@ -43,9 +34,6 @@ By flashing this kernel, **YOU** are choosing to make these modifications. If so
 
 Follow the steps for GKI:  
 [Installation](https://kernelsu.org/guide/installation.html)
-
-To get boot.img format:  
-[Get My Kernel Format](https://github.com/TheWildJames/Get_My_Kernel_Format)
 
 ---
 
@@ -60,7 +48,7 @@ To get boot.img format:
 
 - **KernelSU**: Developed by [tiann](https://github.com/tiann/KernelSU).
 - **KernelSU-Next**: Developed by [rifsxd](https://github.com/KernelSU-Next/KernelSU-Next).
-- **Magic-KSU**: Developed by [5ec1cff](https://github.com/5ec1cff/KernelSU).  
+- **Magic-KSU**: Developed by [5ec1cff](https://github.com/5ec1cff/KernelSU).
 - **SUSFS**: Developed by [simonpunk](https://gitlab.com/simonpunk/susfs4ksu.git).
 - **SUSFS Module**: Developed by [sidex15](https://github.com/sidex15).
 - **Sultan Kernels**: Developed by [kerneltoast](https://github.com/kerneltoast).
@@ -83,8 +71,8 @@ Flashing this kernel will void your warranty, and there is always a risk of bric
 
 ---
 
-[Telegram](https://t.me/TheWildJames)  
-[Telegram Group](https://t.me/Wild_Kernels)  
+[Telegram](https://t.me/NoFloresto)  
+[Telegram Group](https://t.me/NerestKernels)  
 
 # Special thanks to the following people for their contributions!
 This helps me alot! <3

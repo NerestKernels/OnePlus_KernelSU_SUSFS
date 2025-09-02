@@ -9,7 +9,7 @@
 </table>
 
  - Currently All the kernels are built from Android 15 Manifest.
- - Do not use the zips after Major Android OTA (a15 -> a16) unless its verified in <a href="https://t.me/Wild_Kernels">Wild_Kernels</a> Telegram group or other sources like XDA.
+ - Do not use the zips after Major Android OTA (a15 -> a16) unless its verified in <a href="https://t.me/NerestKernels">NerestKernels</a> Telegram group or other sources like XDA.
 
 ## 2. Non-OnePlus Devices
 ### List of verified devices 
@@ -21,7 +21,7 @@
 </table>
 
  - If your device is not in list, please select the device which is most similar and matches the kernel version (androidXX-YY.ZZ.AAA). AAA must be atleast same or greater. XX-YY.ZZ must match exactly. More Information on this can be read @<a href="https://kernelsu.org/guide/installation.html#kmi">KernelSU.org</a>.
- - Thanks to our community users at <a href="https://t.me/Wild_Kernels">Wild_Kernels</a> for helping us compile the list.
+ - Thanks to our community users at <a href="https://t.me/NerestKernels">NerestKernels</a> for helping us compile the list.
  - We request more users come forward help us keep the list updated. 
  - I'm sure more devices from other brands are also supported.
 <table>
@@ -49,5 +49,10 @@
 		<td align="center"> Realme GT Neo 6SE<br>Realme GT Neo 6T </td>
 		<td align="center"> OnePlus Nord 4 </td>
 		<td align="center"> android14-6.1.75 </td>
+	</tr>
+	<tr> 
+		<td align="center"> Realme GT 2 Pro </td>
+		<td align="center"> OnePlus 10 Pro </td>
+		<td align="center"> android12-5.10.209 </td>
 	</tr>
 </table>
